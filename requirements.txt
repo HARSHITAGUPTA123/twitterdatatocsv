@@ -1,0 +1,4 @@
+Pandas==0.18.1
+Numpy==1.10.1
+Matplotlib==1.5.0
+Tweepy==3.5.0
